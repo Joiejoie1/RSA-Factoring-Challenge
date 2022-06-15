@@ -1,2 +1,14 @@
 # RSA-Factoring-Challenge
 ALX RSA-Factoring-Challenge
+
+# Resources
+Read or watch:
+
+RSA
+How does HTTPS provide security?
+Prime Factorization
+
+# Requirements
+# General
+You can choose the language of your choice.
+OS needs to be Standard Ubuntu 20.04 LTS/
